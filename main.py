@@ -1,7 +1,7 @@
 import requests
 from mcp.server.fastmcp import FastMCP
 
-mcp = FastMCP("demo")
+mcp = FastMCP("wordy")
 
 
 @mcp.tool(
